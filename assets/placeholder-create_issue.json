@@ -1,0 +1,567 @@
+{
+    "Description": {
+        "This key and all it's value (a key-value pair) called a property": {
+            "key": "value",
+            "the property below": "is a description of data structure in this file (except for this description)"
+        },
+        "file type - problem the issue trying to solve": {
+            "placeholder": "replacement"
+        }
+    },
+    "README - angle bracket": [
+        {
+            "code": "kr",
+            "language": "Kurdish",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105288",
+            "chapter_name": "Guhertinan bişînin GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.kr.md#guhertinan-bi%C5%9F%C3%AEnin-github",
+            "summary": "Heke hûn di dema push kirinê de bi xeletiyekê re rû bi rû bimînin, li vir bitikînin:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.kr.md"
+        },
+        {
+            "code": "fil",
+            "language": "Filipino",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105936",
+            "chapter_name": "I-push ang mga files na nabago sa GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.fil.md#i-push-ang-mga-files-na-nabago-sa-github",
+            "summary": "Kung nagkaroon ng error habang nag-pupush, i-click ito:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.fil.md"
+        },
+        {
+            "code": "de",
+            "language": "Deutsch",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/94534",
+            "chapter_name": "Änderungen auf Github pushen",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.de.md#%C3%A4nderungen-auf-github-pushen",
+            "summary": "Solltest du auf irgendwelche Fehler beim Pushen stoßen, drücke hier:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.de.md"
+        },
+        {
+            "code": "nl",
+            "language": "Dutch",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105373",
+            "chapter_name": "Push de wijzigingen naar GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.nl.md#push-de-wijzigingen-naar-github",
+            "summary": "Als je foutmeldingen krijgt tijdens het pushen, klik dan hier:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.nl.md"
+        },
+        {
+            "code": "so",
+            "language": "Somalian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/104799",
+            "chapter_name": "Ku riix isbedelada GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.so.md#ku-riix-isbedelada-github",
+            "summary": "Haddii aad wax qalad ah aad aragto markaad riixayso, guji halkan:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.so.md"
+        },
+        {
+            "code": "al",
+            "language": "Albanian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105980",
+            "chapter_name": "Shty ndryshimet në GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.al.md#shty-ndryshimet-n%C3%AB-github",
+            "summary": "Nëse merr ndonjë gabim gjatë shtyrjes, kliko këtu:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.al.md"
+        },
+        {
+            "code": "sr-Latn",
+            "language": "Serbian (Latin)",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105275",
+            "chapter_name": "Push-ovanje izmena na GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.sr-Latn.md#push-ovanje-izmena-na-github",
+            "summary": "Ako dobijate greške prilikom push-ovanja, kliknite ovde:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.sr-Latn.md"
+        },
+        {
+            "code": "sr-Cyrl",
+            "language": "Serbian (Cyrillic)",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105276",
+            "chapter_name": "Push-овање измена на GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.sr-Cyrl.md#push-%D0%BE%D0%B2%D0%B0%D1%9A%D0%B5-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B0-%D0%BD%D0%B0-github",
+            "summary": "Ако добијате грешке приликом push-овања, кликните овде:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.sr-Cyrl.md"
+        },
+        {
+            "code": "hy",
+            "language": "Armenian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105996",
+            "chapter_name": "Push արեք փոփոխությունները github",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.hy.md#push-%D5%A1%D6%80%D5%A5%D6%84-%D6%83%D5%B8%D6%83%D5%B8%D5%AD%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%B6%D5%A5%D6%80%D5%A8-github",
+            "summary": "Եթե push անելիս առաջանում են սխալներ, սեղմեք այստեղ՝",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.hy.md"
+        },
+        {
+            "code": "am",
+            "language": "Amharic",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105999",
+            "chapter_name": "ለውጦችን ወደ GitHub ይግፉ",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.am.md#%E1%88%88%E1%8B%8D%E1%8C%A6%E1%89%BD%E1%8A%95-%E1%8B%88%E1%8B%B0-github-%E1%8B%AD%E1%8C%8D%E1%8D%89",
+            "summary": "በመግፋት ላይ ማንኛውም ስህተት ካጋጠሞት ፤ እዚህ ጠቅ ያድርግ:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.am.md"
+        },
+        {
+            "code": "ga",
+            "language": "Irish",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105993",
+            "chapter_name": "Seol athruithe chuig GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ga.md#seol-athruithe-chuig-github",
+            "summary": "Má fhaigheann tú botúin ar bith le linn an athsheoladh, cliceáil anseo:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ga.md"
+        },
+        {
+            "code": "te",
+            "language": "Telugu",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105318",
+            "chapter_name": "GitHubకి మార్పులను పుష్ చేయండి",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.te.md#github%E0%B0%95%E0%B0%BF-%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AA%E0%B1%81%E0%B0%B2%E0%B0%A8%E0%B1%81-%E0%B0%AA%E0%B1%81%E0%B0%B7%E0%B1%8D-%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%82%E0%B0%A1%E0%B0%BF",
+            "summary": "GitHubలోకి పుష్ చేస్తున్నప్పుడు మీకు ఏవైనా లోపాలు వస్తే, ఇక్కడ క్లిక్ చేయండి:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.te.md"
+        },
+        {
+            "code": "pcm",
+            "language": "Nigerian Pidgin",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105985",
+            "chapter_name": "Push changes to GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.pcm.md#push-changes-to-github",
+            "summary": "If you get any errors while pushing, click here:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.pcm.md"
+        },
+        {
+            "code": "ta",
+            "language": "Tamil",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105943",
+            "chapter_name": "மாற்றங்களை GitHub ற்கு push செய்தல்",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ta.md#%E0%AE%AE%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%88-github-%E0%AE%B1%E0%AF%8D%E0%AE%95%E0%AF%81-push-%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D",
+            "summary": "push செய்யும் போது ஏதேனும் பிழைகள் ஏற்பட்டால், இங்கே சொடுக்கவும்:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ta.md"
+        },
+        {
+            "code": "ro",
+            "language": "Romanian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105369",
+            "chapter_name": "Încărcați modificările pe GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ro.md#%C3%AEnc%C4%83rca%C8%9Bi-modific%C4%83rile-pe-github",
+            "summary": "Dacă întâmpinați erori în timpul încărcării, apăsați aici:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ro.md"
+        },
+        {
+            "code": "vn",
+            "language": "Vietnamese",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105317",
+            "chapter_name": "Đẩy (push) các thay đổi lên GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.vn.md#%C4%91%E1%BA%A9y-push-c%C3%A1c-thay-%C4%91%E1%BB%95i-l%C3%AAn-github",
+            "summary": "Nếu bạn gặp bất cứ lỗi gì trong lúc thực hiện thao tác push, nhấn vào đây:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.vn.md"
+        },
+        {
+            "code": "ko",
+            "language": "Korean",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105287",
+            "chapter_name": "변경사항을 깃허브에 푸시하기",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ko.md#%EB%B3%80%EA%B2%BD%EC%82%AC%ED%95%AD%EC%9D%84-%EA%B9%83%ED%97%88%EB%B8%8C%EC%97%90-%ED%91%B8%EC%8B%9C%ED%95%98%EA%B8%B0",
+            "summary": "푸시하는 중에 에러가 발생했다면, 여기를 클릭하세요:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ko.md"
+        },
+        {
+            "code": "kh",
+            "language": "Khmer",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105280",
+            "chapter_name": "ផ្តួលប្រែប្រួលទៅ GitHub (Push changes to GitHub)",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.kh.md#%E1%9E%95%E1%9F%92%E1%9E%8F%E1%9E%BD%E1%9E%9B%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9F%82%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%BD%E1%9E%9B%E1%9E%91%E1%9F%85-github-push-changes-to-github",
+            "summary": "ប្រសិនបើអ្នកទទួលបានកំហុសណាមួយនៅពេលរុញ សូមចុចទីនេះ៖",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.kh.md"
+        },
+        {
+            "code": "uz",
+            "language": "Uzbek",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105343",
+            "chapter_name": "O'zgarishlarni Githubga push qilish",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.uz.md#ozgarishlarni-githubga-push-qilish",
+            "summary": "Push qilish vaqtida biror xatolarni ko'rsangiz, bu yerni bosing",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.uz.md"
+        },
+        {
+            "code": "bn",
+            "language": "Bengali",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105940",
+            "chapter_name": "পরিবর্তনগুলো গিটহাবে পুশ করা",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.bn.md#%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%A8%E0%A6%97%E0%A7%81%E0%A6%B2%E0%A7%8B-%E0%A6%97%E0%A6%BF%E0%A6%9F%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%AA%E0%A7%81%E0%A6%B6-%E0%A6%95%E0%A6%B0%E0%A6%BE",
+            "summary": "পুশ করতে সমস্যা হলে এখানে ক্লিক করুন:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.bn.md"
+        },
+        {
+            "code": "lt",
+            "language": "Lithuanian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105355",
+            "chapter_name": "Išsiųskite pakeitimus į GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.lt.md#i%C5%A1si%C5%B3skite-pakeitimus-%C4%AF-github",
+            "summary": "Jei gaunate klaidos pranešimą išsaugodami pakeitimus, spauskite čia:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.lt.md"
+        },
+        {
+            "code": "zh-cn",
+            "language": "Simplified Chinese",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/94532",
+            "chapter_name": "将改动 Push（推送）到 GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.zh-cn.md#%E5%B0%86%E6%94%B9%E5%8A%A8-push%E6%8E%A8%E9%80%81%E5%88%B0-github",
+            "summary": "如果在 push（发布）过程中出 error（错误），点击这里",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.zh-cn.md"
+        },
+        {
+            "code": "ua",
+            "language": "Ukrainian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/106000",
+            "chapter_name": "Відправляємо зміни в GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ua.md#%D0%B2%D1%96%D0%B4%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%94%D0%BC%D0%BE-%D0%B7%D0%BC%D1%96%D0%BD%D0%B8-%D0%B2-github",
+            "summary": "Якщо під час натискання виникають помилки, натисніть тут:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ua.md"
+        },
+        {
+            "code": "tn",
+            "language": "Tunisian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105290",
+            "chapter_name": "Pushi les changements 3al GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.tn.md#pushi-les-changements-3al-github",
+            "summary": "Edhaken jek error w9t tpushu, inzel lena:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.tn.md"
+        },
+        {
+            "code": "np",
+            "language": "Nepali",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105285",
+            "chapter_name": "GitHub मा परिवर्तनहरुलाई push गर्नुहोस।",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.np.md#github-%E0%A4%AE%E0%A4%BE-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8%E0%A4%B9%E0%A4%B0%E0%A5%81%E0%A4%B2%E0%A4%BE%E0%A4%88-push-%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%A8%E0%A5%81%E0%A4%B9%E0%A5%8B%E0%A4%B8",
+            "summary": "यदि push गर्दा केहि समस्या परेमा यहाँ क्लिक गर्नुहोस् :",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.np.md"
+        },
+        {
+            "code": "un-aln",
+            "language": "Albanian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105365",
+            "chapter_name": "⌿⎍⌇⊑ ☊⊑⏃⋏☌⟒⌇ ⏁⍜ GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.un-aln.md#---github",
+            "summary": "⟟⎎ ⊬⍜⎍ ☌⟒⏁ ⏃⋏⊬ ⟒⍀⍀⍜⍀⌇ ⍙⊑⟟⌰⟒ ⌿⎍⌇⊑⟟⋏☌, ☊⌰⟟☊☍ ⊑⟒⍀⟒:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.un-aln.md"
+        },
+        {
+            "code": "no",
+            "language": "Norwegian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105372",
+            "chapter_name": "Push endringene til GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.no.md#push-endringene-til-github",
+            "summary": "Hvis du får noen feilmeldinger når du pusher til Github, klikk her:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.no.md"
+        },
+        {
+            "code": "ec",
+            "language": "Ecuadorian Spanish",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105309",
+            "chapter_name": "Haz un \"Push\" de tus cambios a GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ec.md#haz-un-push-de-tus-cambios-a-github",
+            "summary": "Si obtienes algún error al enviar (Push), haz clic aquí:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ec.md"
+        }
+    ],
+    "README - format": [
+        {
+            "code": "arm",
+            "language": "Armenian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105358",
+            "chapter_name": "Փոփոխությունները մղեք GitHub-ին",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.arm.md#%D6%83%D5%B8%D6%83%D5%B8%D5%AD%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%B6%D5%A5%D6%80%D5%A8-%D5%B4%D5%B2%D5%A5%D6%84-github-%D5%AB%D5%B6",
+            "summary": "Եթե ​​հրելիս սխալներ եք ստանում, սեղմեք այստեղ.",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.arm.md",
+            "problem": "too much indentation causes part of error code to be outside of code block.",
+            "done": "Remove indentation from the first line of HTML `<pre>` tag and the lines after it, which have the same indentation, until they are aligned with the following lines."
+        },
+        {
+            "code": "fr",
+            "language": "French",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105293",
+            "chapter_name": "Envoyez les modifications vers GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.fr.md#envoyez-les-modifications-vers-github",
+            "summary": "Si tu obtiens une erreur au moment de pousser, clique ici :",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.fr.md",
+            "problem": "lack of line breaks caused three lines of error codes to display on the same line.",
+            "done": "Add line breaks as in the original [README](https://github.com/firstcontributions/first-contributions/blob/main/README.md#push-changes-to-github), like [this](https://github.com/firstcontributions/first-contributions/blob/main/README.md?plain=1#L200C1-L202C109)."
+        },
+        {
+            "code": "id",
+            "language": "Indonesian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105306",
+            "chapter_name": "Membuat Sebuah Branch (Cabang)",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.id.md#membuat-sebuah-branch-cabang",
+            "summary": "Jika Anda mendapatkan kesalahan saat melakukan push, klik disini:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.id.md",
+            "problem": "too much indentation causes part of error code to be outside of code block.",
+            "done": "Remove indentation from the first line of HTML `<pre>` tag and the lines after it, which have the same indentation, until they are aligned with the following lines."
+        },
+        {
+            "code": "ln",
+            "language": "Lingala",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/pull/106962",
+            "chapter_name": "Tinda ba modifications na GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ln.md#tinda-ba-modifications-na-github",
+            "summary": "Soki ozwi ba erreurs ntango ya kopusa ba modifications, kliké awa:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ln.md",
+            "problem": "lack of line breaks caused three lines of error codes to display on the same line.",
+            "done": "Add line breaks as in the original [README](https://github.com/firstcontributions/first-contributions/blob/main/README.md#push-changes-to-github), like [this](https://github.com/firstcontributions/first-contributions/blob/main/README.md?plain=1#L200C1-L202C109)."
+
+        },
+        {
+            "code": "od",
+            "language": "Odia",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105944",
+            "chapter_name": "GitHub କୁ ପରିବର୍ତ୍ତନ କର |",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.od.md#github-%E0%AC%95%E0%AD%81-%E0%AC%AA%E0%AC%B0%E0%AC%BF%E0%AC%AC%E0%AC%B0%E0%AD%8D%E0%AC%A4%E0%AD%8D%E0%AC%A4%E0%AC%A8-%E0%AC%95%E0%AC%B0-",
+            "summary": "ଯଦି ଆପଣ ଠେଲିବା ସମୟରେ କ any ଣସି ତ୍ରୁଟି ପାଆନ୍ତି, ତେବେ ଏଠାରେ କ୍ଲିକ୍ କରନ୍ତୁ:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.od.md",
+            "problem": "too much indentation causes part of error code to be outside of code block.",
+            "done": "Remove indentation from the first line of HTML `<pre>` tag and the lines after it, which have the same indentation, until they are aligned with the following lines."
+        },
+        {
+            "code": "ky",
+            "language": "Kyrgyz",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/pull/106202",
+            "chapter_name": "Өзгөртүүлөрдү github-га \"push\" кылыңыз",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ky.md#%D3%A9%D0%B7%D0%B3%D3%A9%D1%80%D1%82%D2%AF%D2%AF%D0%BB%D3%A9%D1%80%D0%B4%D2%AF-github-%D0%B3%D0%B0-push-%D0%BA%D1%8B%D0%BB%D1%8B%D2%A3%D1%8B%D0%B7",
+            "summary": "Эгер push кылууда кандайдыр бир каталар кетсе, бул жерди басыңыз:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ky.md",
+            "problem": "lack of line breaks caused three lines of error codes to display on the same line.",
+            "done": "Add line breaks as in the original [README](https://github.com/firstcontributions/first-contributions/blob/main/README.md#push-changes-to-github), like [this](https://github.com/firstcontributions/first-contributions/blob/main/README.md?plain=1#L200C1-L202C109).\nAlso remove the indentation from the first line of the HTML `<pre>` tag until it is aligned with the following lines. "
+        },
+        {
+            "code": "jv",
+            "language": "Javanese (Indonesia)",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/pull/101730",
+            "chapter_name": "Push owah-owahan menyang GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.jv.md#push-owah-owahan-menyang-github",
+            "summary": "Yen ana kesalahan nalika meksa, klik kene:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.jv.md",
+            "problem": "HTML collapsible section isn't working properly because HTML `<details>` tag were misspell to `<detail>`.",
+            "done": "Add an `s` to all HTML `<detail>` tags in line [63](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.jv.md?plain=1&L=63#L63), [74](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.jv.md?plain=1&L=74#L74), [108](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.jv.md?plain=1&L=108#L108), [128](https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.jv.md?plain=1&L=128#L128)."
+        },
+        {
+            "code": "assamese",
+            "language": "Assamese",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105998",
+            "chapter_name": "পৰিবৰ্তনসমূহ GitHub ত Push কৰক",
+            "chapter_link": "",
+            "summary": "যদি আপুনি Push কৰাৰ সময়ত কোনো ত্ৰুটি পায়, ইয়াত ক্লিক কৰক:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.assamese.md",
+            "problem": "missing indentation causes part of error code to be outside of code block.",
+            "done": "Add indentation to the 2nd line of the HTML `<pre>` tag until it is aligned with the following lines."
+        }
+    ],
+    "cli tool tutorials - angle bracket": [
+        {
+            "code": "ko",
+            "language": "Korean",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105287",
+            "chapter_name": "github에 변경 사항을 Push 하기",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-ko.md#github%EC%97%90-%EB%B3%80%EA%B2%BD-%EC%82%AC%ED%95%AD%EC%9D%84-push-%ED%95%98%EA%B8%B0",
+            "summary": "Push 과정에서 에러가 발생하면, 여기를 클릭하세요:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-ko.md"
+        },
+        {
+            "code": "ua",
+            "language": "Ukrainian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/106000",
+            "chapter_name": "Відправляємо зміни в GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/Ukrainian/github-cli-tutorial.ua.md#%D0%B2%D1%96%D0%B4%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%94%D0%BC%D0%BE-%D0%B7%D0%BC%D1%96%D0%BD%D0%B8-%D0%B2-github",
+            "summary": "Якщо ви отримаєте помилки під час відправки, натисніть тут:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/Ukrainian/github-cli-tutorial.ua.md"
+        },
+        {
+            "code": "gujarati",
+            "language": "Gujarati",
+            "code_lang_ref": "The code should be the `language name`.",
+            "chapter_name": "ફેરફારો GitHub પર અપલોડ કરો",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-gujarati.md#%E0%AA%AB%E0%AB%87%E0%AA%B0%E0%AA%AB%E0%AA%BE%E0%AA%B0%E0%AB%8B-github-%E0%AA%AA%E0%AA%B0-%E0%AA%85%E0%AA%AA%E0%AA%B2%E0%AB%8B%E0%AA%A1-%E0%AA%95%E0%AA%B0%E0%AB%8B",
+            "summary": "જો પુશ કરતી વખતે ભૂલ આવે તો અહીં ક્લિક કરો:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-gujarati.md"
+        },
+        {
+            "code": "es",
+            "language": "Spanish",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105819",
+            "chapter_name": "Enviar cambios a github",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/Spanish/github-cli-tutorial.es.md#enviar-cambios-a-github",
+            "summary": "Si tienes algún error al hacer pull, haz click aquí",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/Spanish/github-cli-tutorial.es.md"
+        },
+        {
+            "code": "kannada",
+            "language": "Kannada",
+            "code_lang_ref": "The code should be the `language name`.",
+            "chapter_name": "Github ಗೆ ಬದಲಾವಣೆಗಳನ್ನು ಪುಷ್ ಮಾಡಿ",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/git-cli-tutorial-kannada.md#github-%E0%B2%97%E0%B3%86-%E0%B2%AC%E0%B2%A6%E0%B2%B2%E0%B2%BE%E0%B2%B5%E0%B2%A3%E0%B3%86%E0%B2%97%E0%B2%B3%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B3%81-%E0%B2%AA%E0%B3%81%E0%B2%B7%E0%B3%8D-%E0%B2%AE%E0%B2%BE%E0%B2%A1%E0%B2%BF",
+            "summary": "ನಿಮ್ಮ ಬದಲಾವಣೆಗಳನ್ನು ಪುಷ್ ಮಾಡುವಾಗ ಯಾವುದೇ ದೋಷಗಳನ್ನು ಎದುರಿಸಿದರೆ, ಇಲ್ಲಿ ಕ್ಲಿಕ್ ಮಾಡಿ:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/git-cli-tutorial-kannada.md"
+        },
+        {
+            "code": "te",
+            "language": "Telugu",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105318",
+            "chapter_name": "GitHubకి మార్పులను పుష్ చేయండి",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/github-cli-tutorial-te.md#github%E0%B0%95%E0%B0%BF-%E0%B0%AE%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AA%E0%B1%81%E0%B0%B2%E0%B0%A8%E0%B1%81-%E0%B0%AA%E0%B1%81%E0%B0%B7%E0%B1%8D-%E0%B0%9A%E0%B1%87%E0%B0%AF%E0%B0%82%E0%B0%A1%E0%B0%BF",
+            "summary": "మీరు పుష్ చేస్తున్నప్పుడు ఏవైనా లోపాలు వస్తే, ఇక్కడ క్లిక్ చేయండి:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/github-cli-tutorial-te.md"
+        },
+        {
+            "code": "zh-cn",
+            "language": "Simplified Chinese",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/94532",
+            "chapter_name": "推送更改到 GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/Chinese/github-cli-tutorial.zh-cn.md#%E6%8E%A8%E9%80%81%E6%9B%B4%E6%94%B9%E5%88%B0-github",
+            "summary": "如果在推送过程中出现错误，请点击这里：",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/Chinese/github-cli-tutorial.zh-cn.md"
+        },
+        {
+            "code": "pt-br",
+            "language": "Portuguese (Brazil)",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105933",
+            "chapter_name": "Push as mudanças para o github",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-pt-br.md#push-as-mudan%C3%A7as-para-o-github",
+            "summary": "Se você receber algum erro durante o push, clique aqui:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-pt-br.md"
+        },
+        {
+            "code": "id",
+            "language": "Indonesian",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105306",
+            "chapter_name": "Push perubahan ke Github",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-id.md#push-perubahan-ke-github",
+            "summary": "Kalo ada error saat melakukan push, klik di sini:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-id.md"
+        },
+        {
+            "code": "sinhala",
+            "language": "Sinhala",
+            "code_lang_ref": "The code should be the `language name`.",
+            "chapter_name": "වෙනස්කම් github වෙත තල්ලු කරන්න",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-sinhala.md#%E0%B7%80%E0%B7%99%E0%B6%B1%E0%B7%83%E0%B7%8A%E0%B6%9A%E0%B6%B8%E0%B7%8A-github-%E0%B7%80%E0%B7%99%E0%B6%AD-%E0%B6%AD%E0%B6%BD%E0%B7%8A%E0%B6%BD%E0%B7%94-%E0%B6%9A%E0%B6%BB%E0%B6%B1%E0%B7%8A%E0%B6%B1",
+            "summary": "ඔබට තල්ලු කිරීමේදී කිසියම් දෝෂයක් ඇත්නම්, මෙහි ක්ලික් කරන්න:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-sinhala.md"
+        },
+        {
+            "reason": "Not that sure with the `language name`, ask before create.",
+            "code": "francais",
+            "language": "French",
+            "code_lang_ref": "",
+            "chapter_name": "Envoyez les modifications sur GitHub",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorials-francais.md#envoyez-les-modifications-sur-github",
+            "summary": "Si vous obtenez des erreurs lors de la soumission, cliquez ici :",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorials-francais.md"
+        }
+    ],
+    "cli tool tutorials - format": [
+        {
+            "code": "PL",
+            "language": "Polish",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/pull/103187",
+            "chapter_name": "Push changes to github",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/git-cli-tutorial-PL.md#push-changes-to-github",
+            "summary": "Jeśli podczas wypychania wystąpią błędy, kliknij tutaj:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/git-cli-tutorial-PL.md",
+            "problem": "wrong format of HTML tags (has an extra backslash before tags, e.g. `\\<details\\>`).",
+            "done": "Remove the backslash (`\\`) symbol before all HTML tags."
+        },
+        {
+            "code": "malayalam",
+            "language": "Malayalam",
+            "code_lang_ref": "The code should be the `language name`.",
+            "chapter_name": "മാറ്റങ്ങൾ github'ലേക്ക് പുഷ് ചെയ്യുക",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/github-cli-tutorial-malayalam.md#%E0%B4%AE%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%99%E0%B5%8D%E0%B4%99%E0%B5%BE-github%E0%B4%B2%E0%B5%87%E0%B4%95%E0%B5%8D%E0%B4%95%E0%B5%8D-%E0%B4%AA%E0%B5%81%E0%B4%B7%E0%B5%8D-%E0%B4%9A%E0%B5%86%E0%B4%AF%E0%B5%8D%E0%B4%AF%E0%B5%81%E0%B4%95",
+            "summary": "പുഷ് ചെയ്യുന്നതിനിടക്ക് പ്രശനങ്ങൾ(errors) സംഭവിക്കുകയാണെങ്കിൽ ഇവിടെ ക്ലിക്ക് ചെയ്യുക :",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/github-cli-tutorial-malayalam.md",
+            "problem": "too much indentation causes part of error code to be outside of code block.",
+            "done": "Remove indentation from the first line of HTML `<pre>` tag and the lines after it, which have the same indentation, until they are aligned with the following lines."
+        },
+        {
+            "reason": "Not that sure with the `language name`, ask before create. Turkish? Marathi?",
+            "code": "marathi",
+            "language": "Marathi",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/pull/93856",
+            "chapter_name": "Github मध्ये बदल पुश करा",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/Marathi/github-cli-tutorial.marathi.md#github-%E0%A4%AE%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A5%87-%E0%A4%AC%E0%A4%A6%E0%A4%B2-%E0%A4%AA%E0%A5%81%E0%A4%B6-%E0%A4%95%E0%A4%B0%E0%A4%BE",
+            "summary": "पुश करताना तुम्हाला काही त्रुटी आढळल्यास, येथे क्लिक करा:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/Marathi/github-cli-tutorial.marathi.md",
+            "problem": "lack of line breaks caused three lines of error codes to display on the same line",
+            "done": "Add line breaks as in the original [README](https://github.com/firstcontributions/first-contributions/blob/main/README.md#push-changes-to-github), like [this](https://github.com/firstcontributions/first-contributions/blob/main/README.md?plain=1#L200C1-L202C109)."
+        },
+        {
+            "reason": "Not that sure with the `language name`, ask before create.",
+            "code": "hi",
+            "language": "Hindi",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105818",
+            "chapter_name": "Github में परिवर्तन पुश करें",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/github-cli-tutorial.hi.md#github-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%A8-%E0%A4%AA%E0%A5%81%E0%A4%B6-%E0%A4%95%E0%A4%B0%E0%A5%87%E0%A4%82",
+            "summary": "यदि आपको पुश करते समय कोई त्रुटि मिलती है, तो यहां क्लिक करें:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/translations/github-cli-tutorial.hi.md",
+            "problem": "lack of line breaks caused three lines of error codes to display on the same line.",
+            "done": "Add line breaks as in the original [README](https://github.com/firstcontributions/first-contributions/blob/main/README.md#push-changes-to-github), like [this](https://github.com/firstcontributions/first-contributions/blob/main/README.md?plain=1#L200C1-L202C109)."
+        }
+    ],
+    "special": [
+        {
+            "reasons": "Manual effort is required for this entire section.",
+            "note": "The following properties containing the `problem` key should use the `format` template to create issue."
+        },
+        {
+            "reason": "The original file cannot use templates that are only applicable to translated versions.",
+            "code": "N/A",
+            "language": "English",
+            "code_lang_ref": "N/A",
+            "title": "Fix angle bracket in HTML <pre> tag",
+            "chapter_name": "Push changes to github",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial.md#push-changes-to-github",
+            "summary": "If you get any errors while pushing, click here:",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial.md"
+        },
+        {
+            "reason": "Written in RTL, manual create issue.",
+            "code": "eg",
+            "language": "Egyptian Arabic",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/105349",
+            "chapter_name": "\u0050\u0075\u0073\u0068\u0020\u0063\u0068\u0061\u006e\u0067\u0065\u0073\u0020\u0074\u006f\u0020\u0047\u0069\u0074\u0068\u0075\u0062\u0020\u002d\u0020\u0628\u0639\u062f\u064a\u0646\u0020\u062a\u0631\u0641\u0639\u0020\u0627\u0644\u062a\u063a\u064a\u064a\u0631\u0627\u062a",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.eg.md#-%D8%A8%D8%B9%D8%AF%D9%8A%D9%86-%D8%AA%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1%D8%A7%D8%AA---push-changes-to-github-",
+            "summary": "\u0041\u0075\u0074\u0068\u0065\u006e\u0074\u0069\u0063\u0061\u0074\u0069\u006f\u006e\u0020\u0065\u0072\u0072\u006f\u0072\u0020\u063a\u0627\u0644\u0628\u0627\u0020\u0647\u062a\u0643\u0648\u0646\u0020\u0070\u0075\u0073\u0068\u0020\u0644\u0648\u0020\u0639\u0646\u062f\u0643\u0020\u0645\u0634\u0643\u0644\u0629\u0020\u0648\u0627\u0646\u062a\u0020\u0628\u062a\u0639\u0645\u0644",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.eg.md"
+        },
+        {
+            "reason": "Written in RTL, manual create issue. Since this needs to be done manually, `chapter_name` and `summary` are not provided.",
+            "code": "Urdu",
+            "language": "Urdu",
+            "code_lang_ref": "The code should be the `language name`.",
+            "chapter_name": "N/A",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-Urdu.md#%D8%AA%D8%A8%D8%AF%DB%8C%D9%84%DB%8C%D9%88%DA%BA-%DA%A9%D9%88-%DA%AF%DB%8C%D8%AA%D9%88%D8%A8-%D9%85%DB%8C%DA%BA-%D8%AF%D8%A8%D8%A7%D8%A6%DB%8C%DA%BA",
+            "summary": "N/A",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorial-Urdu.md",
+            "problem": "missing indentation causes part of error code to be outside of code block.",
+            "done": "Add indentation to the 2nd line of the HTML `<pre>` tag until it is aligned with the following lines."
+        },
+        {
+            "reason": "Unreadable file.",
+            "code": "arabic",
+            "language": "Arabic",
+            "code_lang_ref": "The code should be the `language name`.",
+            "chapter_name": "N/A",
+            "chapter_link": "N/A",
+            "summary": "N/A",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/cli-tool-tutorials/github-cli-tutorials-arabic.md",
+            "problem": "Ask Arabic reviewers for help."
+        },
+        {
+            "reason": "Red highlight on error code. Written in RTL, some value are not provided.",
+            "code": "ps",
+            "language": "Pashto",
+            "code_lang_ref": "https://github.com/firstcontributions/first-contributions/issues/104827",
+            "chapter_name": "N/A",
+            "chapter_link": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ps.md#%D8%A8%D8%AF%D9%84%D9%88%D9%86%D9%88%D9%86%D9%87-github-%D8%AA%D9%87-push-%DA%A9%DA%93%D8%A6",
+            "summary": "N/A",
+            "filepath": "https://github.com/firstcontributions/first-contributions/blob/main/docs/translations/README.ps.md",
+            "problem": "Has a red highlight on part of errorcode (unable to reproduce it locally)."
+        }
+    ]
+}

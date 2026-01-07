@@ -1,0 +1,50 @@
+🎯 **Goal**
+Replace the character used for angle brackets within HTML `<pre>` tag in the {language} translation of `{file}` to properly display the error message.
+
+🐞 **Problem**
+The {language} translation [{chapter_name}]({chapter_link}) section, in the first code block in the collapsible section (**`{summary}`**), the last line uses the character `<` within an HTML `<pre>` tag, causing `<your-username>` to be treated as an HTML tag and therefore invisible.
+
+💡 **What needs to be done**
+Replace the angle brackets within HTML `<pre>` tag with [HTML character reference](https://developer.mozilla.org/en-US/docs/Glossary/Character_reference). You can find the file to work on at the following URL:
+{filepath}
+
+🔧**What needs to be changed**
+- Locate the line begin with: `fatal: Authentication failed for 'https://github.com/...'`
+- Replace `<` with `&lt;` in this line
+- Replace `>` with `&gt;` in this line
+
+🗺️ **Example of what needs to be fixed**
+> - Authentication Error (On the {language} translation)
+> remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+> remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+> fatal: Authentication failed for 'https://github.com//first-contributions.git/'
+
+> - Authentication Error (After the replacement)
+> remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+> remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+> fatal: Authentication failed for 'https://github.com/&lt;your-username&gt;/first-contributions.git/'
+
+> - Authentication Error (How it should be displayed)
+> remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+> remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+> fatal: Authentication failed for '[https://github.com/<your-username\>/first-contributions.git/](https://github.com/<your-username>/first-contributions.git/)'
+
+> [!Important]
+> Please only address one issue in a PR.
+> Let's make it possible for more people to solve issues here.
+
+📋 **Steps to solve the problem**
+- Comment below about what you've started working on.
+- Find the line starting with: `fatal: Authentication failed for 'https://github.com/...'`.
+- Replace the angle brackets.
+- Ensure core block display angle brackets properly.
+- Add, commit, push your changes.
+- Submit a pull request and add this in comments - 'Resolves #'
+- Ask for reviews in comments section of pull request.
+- Celebrate your contribution to this project. 🎉
+
+> [!Tip] 
+> Steps on how to display the preview of your changes:
+> 1. Submit the PR with your changes.
+> 2. On the PR page, click the `Files changed` tab: <img width="654" height="61" alt="A image of the tabs on GitHub pull request page, includes conversation, commits, checks, files changed. The file changes tab is highlighted with a red box." src="https://docs.github.com/assets/cb-23571/images/help/pull_requests/pull-request-tabs-changed-files.png" />
+> 3. Preview the proposed changes with `rich diff`: <img width="882" height="109" alt="A image of rich diff button highlighted with a blue box." src="https://github.com/user-attachments/assets/f955cdc5-0414-4e79-bd9b-e2ee14ee1ac3" />
